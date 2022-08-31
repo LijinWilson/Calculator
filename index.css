@@ -1,0 +1,26 @@
+.firstlayer{
+    margin-left: 675px;
+    padding-top: 180px;
+    padding-top: 41px;
+}
+button{
+    width: 111px;
+    height: 83px;
+    border-radius: 45px;
+    font-size: 30px;
+    background-color: grey;
+    color: white;
+}
+.secondlayer{
+    margin-left: 675px;
+    padding-top: 0px;
+    
+}
+.thirdlaye{
+    margin-left: 675px;
+    padding-top: 4px;
+}
+.fourthlayer{
+    margin-left: 675px;
+    padding-top: 0px;
+}
